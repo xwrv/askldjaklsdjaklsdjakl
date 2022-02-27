@@ -2,7 +2,7 @@ from urllib import response
 import requests
 import time
 
-Url = "webhookhere"
+Url = "https://discord.com/api/webhooks/947644094941921282/5qF0UGGJ40o0lfxbv9_jsc2rKLN6TGbyZkkh4lmk1DHVYPa582Ka_PYLKe7SuUkFQQsZ"
 
 wait_time = 3
 
